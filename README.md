@@ -63,11 +63,13 @@
 |   |-- README.md
 |   |-- 11120904 - 1.5 学分 - 大学物理实验（Ⅰ）
 |       |-- README.md
+|       |-- Sakura的学习心得.md
 |       |-- _附件
 |           |-- 实验1指导书.pdf
 |           |-- 参考课件.pptx
 |   |-- 1322060D - 3.5 学分 - 大学物理（Ⅱ）
 |       |-- README.md
+|       |-- Misaka的个人复习笔记.md
 |       |-- _附件
 |           |-- 实验2指导书.pdf
 |           |-- 实验指导课件.pptx
@@ -88,4 +90,7 @@
 ---
 
 欢迎更多志同道合的伙伴加入我们。
+
 Contact admin@njust.wiki
+
+点击链接加入群聊【理工维基NJUST.WIKI】：https://qm.qq.com/q/NXeAllSROg
